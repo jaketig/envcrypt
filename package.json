@@ -18,7 +18,7 @@
   "author": "Jake Tigchelaar",
   "license": "MIT",
   "bin": {
-    "env-crypt": "./lib/index.js"
+    "envcrypt": "./lib/index.js"
   },
   "bugs": {
     "url": "https://github.com/jaketig/envcrypt/issues"
