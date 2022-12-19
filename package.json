@@ -1,6 +1,6 @@
 {
   "name": "@jaketig/envcrypt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Encrypt ENV variables so they are safe to store in version control",
   "main": "lib/index.js",
   "scripts": {
