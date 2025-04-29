@@ -1,2 +1,4 @@
 node_modules/
-.envcrypt.key
+.envcrypt.config
+
+coverage/
